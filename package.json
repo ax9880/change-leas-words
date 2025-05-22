@@ -1,0 +1,6 @@
+{
+    "name": "change-leas-words",
+    "ccmodHumanName": "Change Lea's Words",
+    "version": "1.0.0",
+    "plugin": "plugin.js"
+}
